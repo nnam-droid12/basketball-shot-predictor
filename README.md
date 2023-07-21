@@ -10,10 +10,10 @@ This is a Project that Predicts a shot entering a Basket or not some distance aw
 
 ### SHORT VIDEO
 <video width="320" height="240" controls>
-  <source src="./Videos/vid (1).mp4" type="video/mp4">
-  <source src="./Videos/vid (2).mp4" type="video/ogg">
+  <source src="Videos/vid (1).mp4" type="video/mp4">
+  <!-- <source src="./Videos/vid (2).mp4" type="video/ogg">
   <source src="./Videos/vid (3).mp4" type="video/ogg">
-  <source src="./Videos/vid (4).mp4" type="video/ogg">
+  <source src="./Videos/vid (4).mp4" type="video/ogg"> -->
 </video>
 
 </br>
